@@ -37,7 +37,7 @@ public class ArrSgr {
         return vals;
     }
 
-    public static <T> T[] array(T... vals) {
+    public static <T> T[] arrayT(T... vals) {
         return vals;
     }
 
